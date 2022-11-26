@@ -6,7 +6,7 @@ I'm a student at AltSchoolAfrica on the Frontend Engineering track. I also write
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: She/her/they
+- 😊 Pronouns: She/they
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning CSS, JavaScript, and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
