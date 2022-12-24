@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-thebluegirl-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@thebluegirl)](https://medium.com/@thebluegirl) [![Linkedin Badge](https://img.shields.io/badge/-funtoafuwape-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/funto-afuwape)](https://www.linkedin.com/in/funto-afuwape-89bb51181/) [![Twitter Badge](https://img.shields.io/badge/-@funtoisweird-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/funtoisweird)](https://twitter.com/funtoisweird)
+[![Website Badge](https://img.shields.io/badge/-thebluegirl-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://medium.com/@thebluegirl)](https://medium.com/@thebluegirl) [![Linkedin Badge](https://img.shields.io/badge/-funtoafuwape-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/funto-afuwape)](https://www.linkedin.com/in/funto-afuwape-89bb51181/)
 
 I'm learning how to code. I also write (on my [Blog](https://medium.com/@thebluegirl))...
 
