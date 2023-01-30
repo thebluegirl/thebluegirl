@@ -8,9 +8,9 @@ I'm learning how to code. I also write (on my [Blog](https://medium.com/@theblue
 
 - 😊 Pronouns: She/they
 - 💡 Fun fact: I love studio ghibli
-- 🌱 I’m currently learning CSS, JavaScript, and Reactjs.
+- 🌱 I’m currently learning Ruby.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Web Designer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Web Developer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing funto.afuwape@gmail.com.
 
 ---
